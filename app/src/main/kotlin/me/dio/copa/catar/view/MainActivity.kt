@@ -1,4 +1,4 @@
-package me.dio.copa.catar.features
+package me.dio.copa.catar.view
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

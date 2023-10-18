@@ -1,4 +1,4 @@
-package me.dio.copa.catar.features
+package me.dio.copa.catar.view
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable

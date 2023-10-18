@@ -1,4 +1,4 @@
-package me.dio.copa.catar.features
+package me.dio.copa.catar.view
 
 import androidx.lifecycle.viewModelScope
 import dagger.hilt.android.lifecycle.HiltViewModel
